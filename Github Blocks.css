@@ -1,0 +1,46 @@
+.GB
+{
+    font-size: 1cm;
+    text-align:center;
+}
+body
+{
+    background-color: cornflowerblue;
+}
+#row
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkcyan;
+    margin: 75px 350px;
+    border: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+        
+}
+#rowtwo
+{
+    display: flex;
+    justify-content:center;
+    background-color: blanchedalmond;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 550px;
+    margin-left: 550px;
+}
+
+.blacktocats
+{
+    margin-right: 50px;
+}
+
+#rowthree
+{   
+    display: flex;
+    justify-content: space-around;
+    background-color:chartreuse;
+    margin: 75px 350px;
+    border: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
